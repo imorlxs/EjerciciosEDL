@@ -11,3 +11,6 @@ add_executable(ej2
 
 add_executable(ej3
         ej3.cpp)
+add_executable(multipila
+        multipila.cpp
+        multipila.h)

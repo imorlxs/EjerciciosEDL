@@ -1,0 +1,6 @@
+/Users/isaac/CLionProjects/EjerciciosED/cmake-build-debug/CMakeFiles/ej1.dir
+/Users/isaac/CLionProjects/EjerciciosED/cmake-build-debug/CMakeFiles/ej2.dir
+/Users/isaac/CLionProjects/EjerciciosED/cmake-build-debug/CMakeFiles/ej3.dir
+/Users/isaac/CLionProjects/EjerciciosED/cmake-build-debug/CMakeFiles/multipila.dir
+/Users/isaac/CLionProjects/EjerciciosED/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/isaac/CLionProjects/EjerciciosED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
